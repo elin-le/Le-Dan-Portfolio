@@ -218,7 +218,7 @@ function Work() {
             <div className="flex flex-wrap items-end justify-between gap-5">
               <div>
                 <p className="italic text-burgundy">Featured · 2 projects</p>
-                <h3 className="mt-2 text-3xl font-black leading-tight md:text-5xl">NAB Innovation Centre Vietnam</h3>
+                <h3 className="mt-2 text-3xl font-black leading-tight md:text-5xl text-burgundy">NAB Innovation Centre Vietnam</h3>
               </div>
               <div className="flex flex-wrap gap-2"><Chip>Technical Lead</Chip><Chip>Team Lead</Chip></div>
             </div>
